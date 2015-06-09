@@ -336,7 +336,7 @@
         </Set>
         <Set id="openaireSet">
             <Spec>ec_fundedresources</Spec>
-            <Name>EC_fundedresources set</Name>
+            <Name>OpenAIRE</Name>
             <!-- Just an alias -->
         </Set>
     </Sets>
